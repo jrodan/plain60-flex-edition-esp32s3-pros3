@@ -1,5 +1,18 @@
 # Plain60 Flex Edition rev2.2
 
+## Customizing
+
+Changed the PCB to be able to use the proS3 controller https://esp32s3.com/pros3.html and provide I2C ports and the side of the pcb together with 3 PINs directly accessible via PCB for RGB underglow lights. 
+
+
+| LCSC part # | Description   | Value | Package  | Amount |
+| ----------- | ------------- | ----- | -------- | ------:|
+| C109001     | Diode         |       | 0805     | 65     |
+
+
+
+## General
+
 ![Plain60 Flex Edition PCB](https://i.imgur.com/nfs9vOc.png)
 This universal 60% PCB is designed to support as little layouts as possible without limiting usability for most users. The reason I did this is because other PCBs made for this form factor usually have so many supported layouts that it could almost qualify as swiss cheese.
 

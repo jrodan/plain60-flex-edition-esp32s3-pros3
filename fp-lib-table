@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/../footprints.pretty")(options "")(descr ""))
+  (lib (name "footprints2")(type "KiCad")(uri "/Users/jrodan/dev/jan/plain60-flex-custom-jr/esp32s3/kicad 6/footprints")(options "")(descr ""))
 )

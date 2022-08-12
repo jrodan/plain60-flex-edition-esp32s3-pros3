@@ -1,3 +1,6 @@
 (sym_lib_table
-  (lib (name plain60-cache)(type Legacy)(uri ${KIPRJMOD}/plain60-cache.lib)(options "")(descr ""))
+  (lib (name "plain60-cache")(type "Legacy")(uri "${KIPRJMOD}/plain60-cache.lib")(options "")(descr "")(disabled))
+  (lib (name "TinyS3")(type "KiCad")(uri "/Users/jrodan/dev/jan/plain60-flex-custom-jr/esp32s3/kicad 6/symbols/TinyS3.kicad_sym")(options "")(descr ""))
+  (lib (name "ProS3")(type "KiCad")(uri "/Users/jrodan/dev/jan/plain60-flex-custom-jr/esp32s3/kicad 6/symbols/ProS3.kicad_sym")(options "")(descr ""))
+  (lib (name "FeatherS3")(type "KiCad")(uri "/Users/jrodan/dev/jan/plain60-flex-custom-jr/esp32s3/kicad 6/symbols/FeatherS3.kicad_sym")(options "")(descr ""))
 )
